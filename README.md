@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+My name is Konstantin. I really like tech, and building things.
+
+Some of the things I've built:
+1. Low-level compiler with custom backend for apple arm processors in zig: [Garbage](https://github.com/0xfaa/Garbage)
+2. Visual debugger for small ARM assembly apps: [VizWiz](https://vizwiz.netlify.app/)
+3. 2D cloth simulation in pure JS: [No name yet lol](https://lambent-pixie-ced146.netlify.app/)
+
+I also really like networking, and game-development. Every time one of my firends has a birthday, I make a small game for them.
+
 <!--
 **KonstantinBelenko/KonstantinBelenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
