@@ -1,25 +1,8 @@
-## Hi there 👋
+## Hi
 
-My name is Konstantin. I really like tech, and building things.
+My name is Konstantine. I like to build stuff. My favorite things are networking, compilers, and shipping web apps.
 
-Some of the things I've built:
+Some of the things I've built (not up to date tho):
 1. Low-level compiler with custom backend for apple arm processors in zig: [Garbage](https://github.com/0xfaa/Garbage)
 2. Visual debugger for small ARM assembly apps: [VizWiz](https://vizwiz.netlify.app/)
-3. 2D cloth simulation in pure JS: [No name yet lol](https://lambent-pixie-ced146.netlify.app/)
-
-I also really like networking, and game-development. Every time one of my firends has a birthday, I make a small game for them.
-
-<!--
-**KonstantinBelenko/KonstantinBelenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+3. 2D cloth simulation in pure vanilla JS: [No name yet lol](https://lambent-pixie-ced146.netlify.app/)
