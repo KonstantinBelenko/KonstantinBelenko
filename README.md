@@ -1,6 +1,6 @@
 ## Hi
 
-My name is Konstantine. I like to build stuff. My favorite things are networking, compilers, and shipping web apps.
+My name is Constantine. I like to build stuff. My favorite things are about networking, compilers, and shipping things.
 
 Some of the things I've built (not up to date tho):
 1. Low-level compiler with custom backend for apple arm processors in zig: [Garbage](https://github.com/0xfaa/Garbage)
